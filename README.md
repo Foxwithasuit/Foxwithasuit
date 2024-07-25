@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Foxwithasuit
+- 👋 Hi, I’m @SalamiASB
 - 👀 I’m interested in Radio astronomy, SDR and such
 - 🌱 I’m currently trying to learn python 
   
